@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/eventing-kafka-broker/control-plane/cmd/webhook-kafka@sha256:d9d9daef31a90b0a6d08c8efcd0357a205984b20d90c32fe46a3adde3a6866e5
