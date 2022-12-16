@@ -1,1 +1,1 @@
-FROM gcr.io/paketo-buildpacks/builder:base
+FROM gcr.io/paketo-buildpacks/builder@sha256:495a97476b9d65ee242a9ff0163f7100868847d7f9e295fe9539cd291b623c6e
